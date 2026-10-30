@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "seed": 42,
+  "token_limits": {
+    "train": 1000000,
+    "validation": 100000,
+    "test": 100000
+  },
+  "vocabulary": {
+    "size": 20000,
+    "minimum_frequency": 2,
+    "maximum_size": 20000,
+    "sha256": "841cf191bd2d7cf4b50c20acd6bcf58ae9c6461b965d802d83ff02e77b583644"
+  },
+  "splits": {
+    "train": {
+      "book_count": 20,
+      "token_count": 1000000,
+      "sha256": "ab01cda9b690114612e358d654845c9100c35debf16026c310cf766dfe319de5",
+      "documents": [
+        {
+          "book_id": "57682",
+          "token_count": 23796
+        },
+        {
+          "book_id": "4473",
+          "token_count": 40568
+        },
+        {
+          "book_id": "2193",
+          "token_count": 59030
+        },
+        {
+          "book_id": "42275",
+          "token_count": 91212
+        },
+        {
+          "book_id": "53733",
+          "token_count": 26487
+        },
+        {
+          "book_id": "10989",
+          "token_count": 2873
+        },
+        {
+          "book_id": "38600",
+          "token_count": 149445
+        },
+        {
+          "book_id": "47548",
+          "token_count": 74076
+        },
+        {
+          "book_id": "40415",
+          "token_count": 1139
+        },
+        {
+          "book_id": "37682",
+          "token_count": 37177
+        },
+        {
+          "book_id": "46552",
+          "token_count": 132213
+        },
+        {
+          "book_id": "4549",
+          "token_count": 14207
+        },
+        {
+          "book_id": "35888",
+          "token_count": 54629
+        },
+        {
+          "book_id": "18671",
+          "token_count": 60222
+        },
+        {
+          "book_id": "4039",
+          "token_count": 68349
+        },
+        {
+          "book_id": "1760",
+          "token_count": 16386
+        },
+        {
+          "book_id": "58570",
+          "token_count": 15051
+        },
+        {
+          "book_id": "32464",
+          "token_count": 12966
+        },
+        {
+          "book_id": "48644",
+          "token_count": 116249
+        },
+        {
+          "book_id": "4474",
+          "token_count": 3925
+        }
+      ]
+    },
+    "validation": {
+      "book_count": 1,
+      "token_count": 100000,
+      "sha256": "a4e2517260e17ea627640ada5e94bfb1ec8df1743f1ce98a493477893cfc4e60",
+      "documents": [
+        {
+          "book_id": "42067",
+          "token_count": 100000
+        }
+      ]
+    },
+    "test": {
+      "book_count": 3,
+      "token_count": 100000,
+      "sha256": "c55f97d038b2ec54a7edfc1ece5d350088a8789ec572b0568b88aaf5eef95e1b",
+      "documents": [
+        {
+          "book_id": "37443",
+          "token_count": 4656
+        },
+        {
+          "book_id": "37403",
+          "token_count": 19549
+        },
+        {
+          "book_id": "6941",
+          "token_count": 75795
+        }
+      ]
+    }
+  }
+}
