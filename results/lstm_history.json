@@ -1,0 +1,82 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 6.2660949393316825,
+    "validation_loss": 5.63634300668712,
+    "train_perplexity": 526.4176659227772,
+    "validation_perplexity": 280.43529098874836,
+    "train_seconds": 10.068246052999712
+  },
+  {
+    "epoch": 2,
+    "train_loss": 5.646371643367914,
+    "validation_loss": 5.45162218299692,
+    "train_perplexity": 283.26182408177516,
+    "validation_perplexity": 233.13604866141495,
+    "train_seconds": 9.329745377999643
+  },
+  {
+    "epoch": 3,
+    "train_loss": 5.410204553233154,
+    "validation_loss": 5.3718383714600355,
+    "train_perplexity": 223.67733692375967,
+    "validation_perplexity": 215.25822876704433,
+    "train_seconds": 9.373805888999414
+  },
+  {
+    "epoch": 4,
+    "train_loss": 5.244289396438634,
+    "validation_loss": 5.316799366186026,
+    "train_perplexity": 189.4811214185451,
+    "validation_perplexity": 203.73076977330047,
+    "train_seconds": 9.051165120000405
+  },
+  {
+    "epoch": 5,
+    "train_loss": 5.111303825193027,
+    "validation_loss": 5.309470093775625,
+    "train_perplexity": 165.88650093387113,
+    "validation_perplexity": 202.24303014763683,
+    "train_seconds": 9.019609899999523
+  },
+  {
+    "epoch": 6,
+    "train_loss": 4.99701879399912,
+    "validation_loss": 5.301297446009915,
+    "train_perplexity": 147.97136776474917,
+    "validation_perplexity": 200.59690486258356,
+    "train_seconds": 9.082318382999802
+  },
+  {
+    "epoch": 7,
+    "train_loss": 4.895096991614855,
+    "validation_loss": 5.300782070304297,
+    "train_perplexity": 133.6329672632922,
+    "validation_perplexity": 200.4935487271036,
+    "train_seconds": 8.92722533899996
+  },
+  {
+    "epoch": 8,
+    "train_loss": 4.803694598471312,
+    "validation_loss": 5.307915299753253,
+    "train_perplexity": 121.9601800559323,
+    "validation_perplexity": 201.92882821623485,
+    "train_seconds": 8.956586263000645
+  },
+  {
+    "epoch": 9,
+    "train_loss": 4.72077884370047,
+    "validation_loss": 5.33611589177077,
+    "train_perplexity": 112.25564823411752,
+    "validation_perplexity": 207.70439516308622,
+    "train_seconds": 8.976105401000495
+  },
+  {
+    "epoch": 10,
+    "train_loss": 4.644992312311957,
+    "validation_loss": 5.36157670649856,
+    "train_perplexity": 104.06256578179755,
+    "validation_perplexity": 213.06061581151226,
+    "train_seconds": 8.98513481000009
+  }
+]
