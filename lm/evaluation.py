@@ -1,7 +1,5 @@
 import math
-
 from lm.ngram import smoothed_probability
-
 
 def perplexity(
     documents,

@@ -1,6 +1,5 @@
 from collections import Counter
 
-
 def count_ngrams(documents, n):
     if n not in (2, 3):
         raise ValueError("n değeri 2 veya 3 olmalı.")
